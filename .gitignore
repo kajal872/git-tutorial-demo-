@@ -1,5 +1,4 @@
-my.xls
-error.log
+*my.xls
 ignore
 *.log
 dir/
